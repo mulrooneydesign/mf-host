@@ -22,8 +22,9 @@
     "typescript": "^5.7.3"
   },
   "dependencies": {
-    "@module-federation/enhanced": "^0.8.9",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "@module-federation/enhanced": "^0.19.1",
+    "mf-pack": "^6.0.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   }
 }
